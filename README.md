@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Julien and  I'm a young developer in the process of retraining.</h2>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jln63&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,7 +8,7 @@
 </div>
 
 
-<img src="./assets/bonjour.png" alt="Bonjour manga" align="right" width="250" />
+<img src="./assets/Bonjour.png" alt="Bonjour manga" align="right" width="250" />
 
 
 <div align="left">
@@ -58,4 +57,3 @@
 
 <img src="https://raw.githubusercontent.com/jln63/jln63/output/snake.svg" alt="Snake animation" />
 
-###
