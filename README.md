@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <img src="./assets/github-stats.svg" height="150" alt="GitHub stats" />
-  <img src="./assets/github-streak.svg" height="150" alt="GitHub streak" />
-  <img src="./assets/github-langs.svg" height="150" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/jln63/jln63/output/github-stats.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/jln63/jln63/output/github-streak.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/jln63/jln63/output/github-langs.svg" height="150" />
 </div>
 
 <img src="./assets/Bonjour.png" alt="Bonjour manga" align="right" width="250" />
