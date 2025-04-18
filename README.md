@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="250" src="https://imgur.com/mPhSCeH"  />
+![Bonjour manga](./assets/bonjour-metal.gif)
 
 ###
 
