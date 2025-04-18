@@ -10,7 +10,7 @@
 
 ###
 
-![Bonjour manga](./assets/bonjour-metal.gif)
+<img src="./assets/bonjour-metal.gif" alt="Bonjour manga" align="right" width="250" />
 
 ###
 
