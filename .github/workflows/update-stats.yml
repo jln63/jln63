@@ -31,11 +31,18 @@ jobs:
           curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
                "https://github-readme-stats.vercel.app/api/top-langs?username=jln63&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" \
                -o assets/github-langs.svg
-
+               
       - name: Commit & push
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add assets/github-*.svg
-          git commit -m "update: GitHub stats images (auto)"
-          git push
+          git commit -m "update: GitHub stats images (auto)" || echo "No changes to commit"
+
+      - name: Configure push avec GH_TOKEN
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+
+      - name: Push les fichiers modifiés
+        run: |
+          git push origin HEAD
