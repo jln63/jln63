@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jln63/jln63/output/github-stats.svg" height="150" />
-  <img src="https://raw.githubusercontent.com/jln63/jln63/output/github-streak.svg" height="150" />
-  <img src="https://raw.githubusercontent.com/jln63/jln63/output/github-langs.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/jln63/jln63/output/stats/github-stats.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/jln63/jln63/output/streak/github-streak.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/jln63/jln63/output/langs/github-langs.svg" height="150" />
 </div>
 
 <img src="./assets/Bonjour.png" alt="Bonjour manga" align="right" width="250" />
@@ -54,5 +54,5 @@
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jln63/jln63/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jln63/jln63/output/snake/snake.svg" alt="Snake animation" />
 
