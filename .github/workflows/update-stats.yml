@@ -34,7 +34,7 @@ jobs:
       - name: Download GitHub Streak
         run: |
           curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-            "https://streak-stats.demolab.com?user=jln63&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5" \
+            "https://github-readme-streak-stats-eight.vercel.app?user=jln63&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5" \
             -o dist/streak/github-streak.svg
 
       - name: Download Top Languages
