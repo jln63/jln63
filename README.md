@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Julien and  I'm a young developer in the process of retraining.</h2>
-
-  <img src="./assets/Bonjour.png" align="center" alt="Bonjour manga" width="250" />
+<div align="center">
+  <img src="./assets/Bonjour.png" alt="Bonjour manga" width="250" />
+</div>
 <div align="center">
   <!-- <img src="https://raw.githubusercontent.com/jln63/jln63/output/stats/github-stats.svg" height="150" /> -->
   <img src="https://raw.githubusercontent.com/jln63/jln63/output/streak/github-streak.svg" height="150" />
