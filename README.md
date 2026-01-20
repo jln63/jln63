@@ -1,13 +1,13 @@
 <h2 align="left">Hi 👋! My name is Julien and  I'm a young developer in the process of retraining.</h2>
 
-
-<div align="center">
+<div>
+  <img src="./assets/Bonjour.png" alt="Bonjour manga" align="right" width="250" />
   <!-- <img src="https://raw.githubusercontent.com/jln63/jln63/output/stats/github-stats.svg" height="150" /> -->
   <img src="https://raw.githubusercontent.com/jln63/jln63/output/streak/github-streak.svg" height="150" />
   <!-- <img src="https://raw.githubusercontent.com/jln63/jln63/output/langs/github-langs.svg" height="150" /> -->
 </div>
 
-<img src="./assets/Bonjour.png" alt="Bonjour manga" align="right" width="250" />
+
 
 
 <div align="left">
