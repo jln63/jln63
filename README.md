@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jln63/jln63/output/stats/github-stats.svg" height="150" />
+  <!-- <img src="https://raw.githubusercontent.com/jln63/jln63/output/stats/github-stats.svg" height="150" /> -->
   <img src="https://raw.githubusercontent.com/jln63/jln63/output/streak/github-streak.svg" height="150" />
-  <img src="https://raw.githubusercontent.com/jln63/jln63/output/langs/github-langs.svg" height="150" />
+  <!-- <img src="https://raw.githubusercontent.com/jln63/jln63/output/langs/github-langs.svg" height="150" /> -->
 </div>
 
 <img src="./assets/Bonjour.png" alt="Bonjour manga" align="right" width="250" />
