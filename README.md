@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Julien and  I'm a young developer in the process of retraining.</h2>
 
-  <img src="./assets/Bonjour.png" alt="Bonjour manga" width="250" />
-<div>
+  <img src="./assets/Bonjour.png" align="center" alt="Bonjour manga" width="250" />
+<div align="center">
   <!-- <img src="https://raw.githubusercontent.com/jln63/jln63/output/stats/github-stats.svg" height="150" /> -->
   <img src="https://raw.githubusercontent.com/jln63/jln63/output/streak/github-streak.svg" height="150" />
   <!-- <img src="https://raw.githubusercontent.com/jln63/jln63/output/langs/github-langs.svg" height="150" /> -->
@@ -10,7 +10,7 @@
 
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
